@@ -85,7 +85,7 @@ PRs welcome! Please:
 
 ## 📜 **License**  
 
-MIT License - see [LICENSE](LICENSE) file  
+MIT License - see [LICENSE](https://github.com/Kirankumarvel/DiceRollerFX/blob/main/License) file  
 
 ---
 
